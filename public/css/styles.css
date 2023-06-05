@@ -1,0 +1,16 @@
+.title{
+    background-color: rgb(51, 207, 51);
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.swiper {
+    width: 600px;
+    height: 300px;
+  }
+.swiper-slide{
+    background-color: lightgrey;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+   
+}
